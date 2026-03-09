@@ -233,10 +233,15 @@ exit
 
 
 ## OUTPUT1
+
 <img width="514" height="238" alt="image" src="https://github.com/user-attachments/assets/eb8e107e-6640-4a9a-ad3d-d4f8e1db97f8" />
+
 ## OUTPUT2
+
 <img width="515" height="233" alt="image" src="https://github.com/user-attachments/assets/00da6e62-960e-43dd-9931-96e86a0ba69e" />
+
 ## OUTPUT3
+
 <img width="522" height="232" alt="image" src="https://github.com/user-attachments/assets/4c507170-83cc-45eb-95bc-5bbb7a133393" />
 
 
